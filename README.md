@@ -41,7 +41,7 @@ it learns smooth patterns well, but reacts with delay to sudden jumps.
 - Error Distribution
 
 ## Usage
-- For learning
+- Just run the script to learn time series feature engineering 🌡️📈
 
 ### Possible Improvements
 - Adding multi-step lag features
